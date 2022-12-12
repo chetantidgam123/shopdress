@@ -37,8 +37,10 @@ const Chatbot = () => {
         }
 
     ]
+    //segement
   return (
     <div>
+        
        <Segment zIndex="1" float={"left"} >
         <ChatBot  steps={steps} />
        </Segment>
