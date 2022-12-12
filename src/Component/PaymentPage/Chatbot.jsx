@@ -37,7 +37,7 @@ const Chatbot = () => {
         }
 
     ]
-    //segement
+    //segement 2
   return (
     <div>
         
