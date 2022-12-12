@@ -5,7 +5,7 @@ const Chatbot = () => {
     const steps=[
         {
             id:'Greet',
-            message:'Hello,welcome to ShopDress up',
+            message:'Hello,welcome to ShopDress up !',
             trigger:'Ask name'
         },
         {
