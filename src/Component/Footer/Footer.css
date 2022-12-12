@@ -116,6 +116,9 @@
 text-align: center;
     
 }
+.responsive_box{
+    display: none;
+}
 /* resonvive */
 @media only screen and (max-width: 1529px) {
     .responsive_box{

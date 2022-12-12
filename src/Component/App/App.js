@@ -1,6 +1,3 @@
-// import Navbar from "./Component/Navbar/Navbar";
-// import Footer from "./Component/Footer/Footer";
-// import PaymentPage from "../Component/PaymentPage/PaymentPage";
 import React, { useState } from "react";
 import Cart from "../Cart/Cart";
 import Footer from "../Footer/Footer";
@@ -18,19 +15,18 @@ import ProductPages from "../ProductPages/ProductPages"
 
 import { ChakraProvider } from '@chakra-ui/react';
 import Navbar from "../TESTING/DROP";
-import Chatbot from "../PaymentPage/Chatbot";
 import Allroutes from "../AllRoutes/Allroutes";
 
 function App() {
  
   return (
-   <div className="App">
+    <div className="App">
 
    <Navbar/>
    <Cart/>
 
-   {/* <Allroutes/> */}
-
+   <Allroutes/>
+    <BasicUsage/>
 
    {/* <Login/>
     <br/>
@@ -52,11 +48,10 @@ function App() {
   {/* {payment===true?<Carddetails/>:<PaymentPage setpayment={setpayment} payment={payment}/>} */}
   {/* {complete===true?<Successfull/>:<Carddetails complete={complete} setcomplete={setcomplete}/>} */}
     
-    <PaymentPage/>
+    {/* <PaymentPage/> */}
     <Footer/>
 
     </div>
-   
   );
 }
 
