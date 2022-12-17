@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/chetantidgam123/shopdress">
-    <img src="./img/Untitled-1.jpg" alt="logo" width="100" height="50">
+    <img src="./img/Untitled-1.jpeg" alt="logo" width="100" height="50">
   </a>
 
 <h3 align="center">Shopdressup</h3>
@@ -88,7 +88,7 @@ This is how we work on project.
 1. Visual Studio Code
 2. Clone the repo
    ```sh
-   git clone https://github.com/CartikKG/Blinkit
+   git clone https://github.com/chetantidgam123/shopdress
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +123,7 @@ Don't forget to give the project a star! Thanks again!
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: ./img/Capture.PNG
+[product-screenshot]: ./img/Capture.jpeg
 [HTML]: https://cdn-icons-png.flaticon.com/128/1051/1051277.png
 [Html-url]: https://www.tutorialspoint.com/html/html_tutorial.pdf
 [CSS]:https://cdn-icons-png.flaticon.com/128/5968/5968242.png
